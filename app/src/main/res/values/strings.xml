@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Mobile Go-gain</string>
+    <string name="print_complete">Print Completed!</string>
+    <string name="print_failed">Print failed :(</string>
+</resources>
